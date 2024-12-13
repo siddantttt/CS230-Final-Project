@@ -2,27 +2,49 @@ const words = {
     "dayroom": {
         definition: "A room seperated for study sessions during weekdays, movie sessions during weekends and dance practice center during cultural nights",
         example: "Today we have prep time at 4PM in dayroom",
-        likes: 0
+        likes: 23
     },
     "chicken day": {
         definition: "Day of the week where the supper is chicken curry with rice",
         example: "Rameshwar ate 5kg rice on chicken day",
-        likes: 0
+        likes: 19
     },
     "black gate": {
         definition: "Illegal pathway to smuggle food inside school permises",
         example: "The store in front of black gate did monthly business in millions",
-        likes: 0
+        likes: 32
     },
     "sudip momo": {
         definition: "Momo one eats during their broke days",
         example: "Last week sudip's momo had buffalo teeth in it",
-        likes: 0
+        likes: 67
     },
     "raju momo": {
         definition: "Momo one eats during their rich days",
         example: "Raju momo is the goated momo in Naranthan",
-        likes: 0
+        likes: 98
+    },
+    "first court": {
+        definition: "First pitch of the iconic garden pitch trilogy, the best pitch to play on",
+        example: "First court is the Santiago Bernabeau of garden pitches",
+        likes: 47
+    },
+    "second court": {
+        definition: "Second pitch of the iconic garden pitch trilogy, worst pitch to play on",
+        example: "HRT sir threw a banana from his flat window and it landed at second court",
+        likes: 82
+    }
+    ,
+    "third court": {
+        definition: "Third pitch of the iconic garden pitch trilogy, stadium abusively filled with dhobi clothes left for drying ",
+        example: "We should steal some raddish form the fields next to the third court",
+        likes: 32
+    }
+    ,
+    "black tank": {
+        definition: "A tap outside dining hall with mysteriously 24/7 water supply",
+        example: "Avanish saw a ghost outside black tank yesterday",
+        likes: 29
     }
     
 };

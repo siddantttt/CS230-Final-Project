@@ -269,7 +269,6 @@ footer a:hover {
     }
 }
 
-/* Further tweaks for smaller screens */
 @media (max-width: 480px) {
     .definition-card {
         padding: 0.75rem;

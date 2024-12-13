@@ -236,30 +236,28 @@ footer a:hover {
     }
 }
 
-/* Responsive Design */
+/* Responsive Design for Mobile */
 @media (max-width: 768px) {
     header {
-        padding: 2rem 0;
+        padding: 2rem 1rem; /* Adds padding on the sides */
     }
 
     .header-container h1 {
-        font-size: 2rem;
+        font-size: 2.5rem; /* Reduces the size of the header text for smaller screens */
     }
 
     .header-container p {
-        font-size: 1rem;
+        font-size: 1.1rem;
     }
 
     .search-container {
         margin-top: 1rem;
+        padding: 0 1rem; /* Adds padding inside search container */
     }
 
-    .word-definition h2 {
-        font-size: 1.5rem;
-    }
-
-    .word-definition p {
-        font-size: 1rem;
+    .word-definition {
+        margin-top: 2rem;
+        padding: 0 1rem; /* Adds padding for definition container */
     }
 
     .definition-card {
@@ -271,6 +269,7 @@ footer a:hover {
     }
 }
 
+/* Further tweaks for smaller screens */
 @media (max-width: 480px) {
     .definition-card {
         padding: 0.75rem;
